@@ -1,2 +1,2 @@
-# quenny-web.github.io
+# Quenny-web.github.io
  photobook
