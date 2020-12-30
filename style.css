@@ -9,11 +9,11 @@ nav{
 }
 
 body{
-    background-color: black:
+    background-color: black;
 }
 
 .container{
-    max-width : 1200px;
+    max-width : 800px;
     margin: auto;
     background: #f2f2f2;
     overflow: auto;
